@@ -1,6 +1,6 @@
 # Mousikal-client
 
-The client for a music discussion web application using Vue.js.
+The client for a music discussion web application using Vue.js, Axios, and JWTs. The primary function of searching no longer works unfortunately because my Spotify API key has expired.
 
 ### Running the project
 ```
