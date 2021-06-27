@@ -17,6 +17,11 @@ npm run build
 npm run lint
 ```
 
-Some images of the application:
+# Some images of the application:
 
+Registering and logging in:
 <img width="1050" alt="Register Page" src="https://user-images.githubusercontent.com/25047954/123529563-8a296b80-d6bf-11eb-87d7-20be132dfb7f.png">
+
+After successful login:
+<img width="1050" alt="LoggedIn" src="https://user-images.githubusercontent.com/25047954/123529651-64509680-d6c0-11eb-87df-08059c507f58.png">
+
