@@ -1,6 +1,6 @@
 # Mousikal-client
 
-The client for a music discussion web application using Vue.js, Axios, and JWTs. The primary function of searching no longer works unfortunately because my Spotify API key has expired.
+The client code for a music discussion web application using Vue.js, Axios, and JWTs. The primary function of searching no longer works - my Spotify API key has expired and the application never got hosted anywhere anyways.
 
 ### Running the project
 ```
@@ -24,4 +24,3 @@ Registering and logging in:
 
 After successful login:
 <img width="1050" alt="LoggedIn" src="https://user-images.githubusercontent.com/25047954/123529651-64509680-d6c0-11eb-87df-08059c507f58.png">
-
