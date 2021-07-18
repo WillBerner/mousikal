@@ -1,21 +1,8 @@
 # Mousikal-client
 
-The client code for a music discussion web application using Vue.js, Axios, and JWTs. The primary function of searching no longer works - my Spotify API key has expired and the application never got hosted anywhere anyways.
+The client code for a music discussion web application using Vue.js, Axios, and JWTs. Built as a group final project for UNC-CH's Modern Web Development course. The primary function of searching no longer works - my Spotify API key has expired and the application never got hosted anywhere permanently.
 
-### Running the project
-```
-<!-- Install project files -->
-npm install 
-
-<!-- Start a development server -->
-npm run serve
-
-<!-- Build the application to deploy -->
-npm run build
-
-<!-- Run linting and fixes -->
-npm run lint
-```
+Users could register an account, saved in an Express/Node backend with a basic data-store implementation, and then login and recieve a jwt to send authorized requests with. The user could then perform CRUD operations on this data-store database by way of commenting on and favoriting certain album pulled from Spotify's API, allowing the user to discuss the album with other users.
 
 # Some images of the application:
 
