@@ -11,3 +11,5 @@ Registering and logging in:
 
 After successful login:
 <img width="1050" alt="LoggedIn" src="https://user-images.githubusercontent.com/25047954/123529651-64509680-d6c0-11eb-87df-08059c507f58.png">
+
+&copy; 2021 [Will](https://github.com/WillBerner) and [Steini](https://github.com/SteiniDavid)
